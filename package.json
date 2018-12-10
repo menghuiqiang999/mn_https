@@ -1,0 +1,24 @@
+{
+  "name": "mn_https",
+  "version": "1.0.0",
+  "description": "common methods of https",
+  "main": "Https.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menghuiqiang999/mn_https.git"
+  },
+  "keywords": [
+    "mn_https;get;post;https;https",
+    "get;https",
+    "post;"
+  ],
+  "author": "moonlight",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/menghuiqiang999/mn_https/issues"
+  },
+  "homepage": "https://github.com/menghuiqiang999/mn_https#readme"
+}
